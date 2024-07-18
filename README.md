@@ -1,6 +1,6 @@
 # Pandas-exercises
 
-Welcome! This repository contains a comprehensive set of exercises designed to help you master the use of the Pandas library for data manipulation, visualization, and more. These exercises will help you enhance your data analysis skills.
+Welcome! This repository contains a comprehensive set of exercises designed to use the Pandas library for data manipulation, visualization, and more. 
 
 ## Introduction
 
